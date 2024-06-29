@@ -19,7 +19,7 @@ title: blackbzy # the main title
 tagline: blackbzy的菜园子 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  日常记录和技术分享.
+  日常记录,技术分享.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 大湿
+  name: blackbzy
   email: 1131064363@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
