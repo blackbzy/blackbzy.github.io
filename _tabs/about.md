@@ -5,7 +5,9 @@ order: 4
 ---
 
 # summary
-{: .prompt-info 也可以叫我大湿，人菜瘾大}
+
+>也可以叫我大湿，人菜瘾大
+{: .prompt-info } 
 
 ---
 # mian
