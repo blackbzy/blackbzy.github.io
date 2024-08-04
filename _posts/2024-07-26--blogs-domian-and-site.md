@@ -1,7 +1,7 @@
 ---
 title: blog_03_bolg添加域名和服务部署
 description: 模板配置
-date: 2024-07-26T07:35:00
+date: 2024-07-26
 categories:
   - blog
 tags:

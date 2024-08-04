@@ -1,7 +1,7 @@
 ---
 title: blog_04_博客添加评论模块
 description: 添加评论模块
-date: 2024-08-03T15:45:00
+date: 2024-08-03
 categories:
   - blog
 tags:

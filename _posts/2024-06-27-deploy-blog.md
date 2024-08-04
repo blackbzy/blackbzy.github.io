@@ -88,10 +88,10 @@ url: ""
 至此博客搭建完成。
 
 ## 未完待续
-- [x] [[01_模板配置]]
-- [x] 独立域名和服务器
+- [x] [01_模板配置](/_posts/2024-07-03-blog-template.md)
+- [x] [独立域名和服务器](/_posts/2024-07-26--blogs-domian-and-site.md)
 - [ ] 双语切换（待定）参考[双语使用方式](https://aursus.github.io/hexo-bilingual)
-- [x] 评论服务加上：waline
+- [x] [评论服务加上：waline](/_posts/2024-08-03-add-comments.md)
 - [ ] 学习front_end的语言，自己进行theme的调整
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: blog_02_jykell主题模板配置
 description: 模板配置
-date: 2024-07-03T13:17:00
+date: 2024-07-03
 categories:
   - blog
 tags:
