@@ -5,9 +5,9 @@ tags:
 create_date: 2024-06-27
 update_date: 2024-06-27
 ---
-# summary
->[!info]
->
+
+> 记录博客的建站和域名选择
+{: .prompt-info }
 
 ---
 # mian
