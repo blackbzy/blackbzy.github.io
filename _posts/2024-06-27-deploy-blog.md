@@ -1,9 +1,18 @@
 ---
-title: 博客部署
+title: blog_01_jykell博客搭建部署
+description: 博客搭建
+date: 
+categories:
+  - blog
 tags:
   - blog
-create_date: 2024-06-27
-update_date: 2024-06-27
+auther: blackbzy
+update_date: false
+pin: true
+toc: true
+comments: 
+render_with_liquid: false
+media_subpath: 
 ---
 
 > 记录博客的建站和域名选择
@@ -79,6 +88,11 @@ url: ""
 至此博客搭建完成。
 
 ## 未完待续
-- 双语切换（待定）参考[双语使用方式](https://aursus.github.io/hexo-bilingual)
-- 评论服务加上：disqus  valine
-- 学习front_end的语言，自己进行theme的调整
+- [x] [[01_模板配置]]
+- [x] 独立域名和服务器
+- [ ] 双语切换（待定）参考[双语使用方式](https://aursus.github.io/hexo-bilingual)
+- [x] 评论服务加上：waline
+- [ ] 学习front_end的语言，自己进行theme的调整
+
+---
+故事未完:179
