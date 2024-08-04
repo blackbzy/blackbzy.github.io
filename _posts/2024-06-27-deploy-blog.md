@@ -1,7 +1,7 @@
 ---
 title: blog_01_jykell博客搭建部署
 description: 博客搭建
-date: 
+date: 2024-06-27
 categories:
   - blog
 tags:
