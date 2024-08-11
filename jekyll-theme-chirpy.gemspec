@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+﻿# frozen_string_literal: true
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-chirpy"
@@ -9,11 +9,9 @@ Gem::Specification.new do |spec|
   spec.summary       = "A minimal, responsive, and feature-rich Jekyll theme for technical writing."
   spec.homepage      = "https://github.com/cotes2020/jekyll-theme-chirpy"
   spec.license       = "MIT"
-
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
     f.match(%r!^((_(includes|layouts|sass|app|(data\/(locales|origin)))|assets)\/|README|LICENSE)!i)
   }
-
   spec.metadata = {
     "bug_tracker_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy/issues",
     "documentation_uri" => "https://github.com/cotes2020/jekyll-theme-chirpy/#readme",
