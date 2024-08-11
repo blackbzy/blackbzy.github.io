@@ -20,12 +20,14 @@ media_subpath:
 
 ---
 # mian
-1. 尝试基于valine添加comment 模块：发现没有关于jykell的官方文档，只有[valine](https://duter2016.github.io/2019/09/18/Jekyll%E6%B7%BB%E5%8A%A0Valine%E8%AF%84%E8%AE%BA-%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5%E5%92%8C%E8%AF%84%E8%AE%BA%E5%88%97%E8%A1%A8%E5%A4%B4%E5%83%8F/) 的社区文档，于是尝试
+1. 尝试基于valine添加comment 模块：
+发现没有关于jykell的官方文档，只有[valine](https://duter2016.github.io/2019/09/18/Jekyll%E6%B7%BB%E5%8A%A0Valine%E8%AF%84%E8%AE%BA-%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5%E5%92%8C%E8%AF%84%E8%AE%BA%E5%88%97%E8%A1%A8%E5%A4%B4%E5%83%8F/) 的社区文档，于是尝试
 	1. 修改blog项目启动之后发现没用，没用排查头绪遂放弃
-2. 尝试基于Waline添加comment 模块，这次是有[官方文档](https://waline.js.org/guide/get-started/)：jykell特殊调整内容如下
+##  2. 尝试基于Waline添加comment 模:
+这次是有[官方文档](https://waline.js.org/guide/get-started/)：jykell特殊调整内容如下
 	1. 数据库保持leanCloud，服务端基于vercel切换（基于[deta](https://waline.js.org/guide/deploy/deta.html)进行部署，也是可以的，尝试了一下没问题）
 	2. Waline部署完成，然后要在blog中添加的官方配置，单独建一个文件`_includes\head.html` ，内容如下：
-```xml
+```html
 <!-- waline 评论框 start -->
 
 <div id="waline"></div>

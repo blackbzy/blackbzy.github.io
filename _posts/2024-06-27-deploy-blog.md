@@ -7,7 +7,7 @@ categories:
 tags:
   - blog
 auther: blackbzy
-update_date: false
+update_date: 2024-08-11
 pin: true
 toc: true
 comments: 
@@ -93,6 +93,7 @@ url: ""
 - [ ] 双语切换（待定）参考[双语使用方式](https://aursus.github.io/hexo-bilingual)
 - [x] [评论服务加上：waline](/posts/add-comments.md)
 - [ ] 学习front_end的语言，自己进行theme的调整
+- [ ] 静态资源的cdn和oss服务托管
 
 ---
 故事未完:179

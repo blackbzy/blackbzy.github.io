@@ -49,5 +49,9 @@ image: # 封面图片
 ## 2.模板配置的策略
 方便不同类型文章的输出。且适配jykell语法，能够正常的在页面渲染
 
+
+tips:
+logo生成：准备大小为 512x512 或更大的方形图片（PNG、JPG 或 SVG），然后转到在线工具 [**Real Favicon Generator**](https://realfavicongenerator.net/) 并单击 Select your Favicon image 按钮上传您的图片文件。
+
 ---
 **Thoughts**:: 模板格式方便调试.
