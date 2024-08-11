@@ -9,3 +9,6 @@ group :test do
 end
 
 gem "webrick", "~> 1.8"
+
+ENV['LANG'] = 'en_US.UTF-8'
+ENV['LC_ALL'] = 'en_US.UTF-8'
