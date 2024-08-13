@@ -27,8 +27,8 @@ media_subpath:
 这次是有[官方文档](https://waline.js.org/guide/get-started/)：jykell特殊调整内容如下
 	1. 数据库保持leanCloud，服务端基于vercel切换（基于[deta](https://waline.js.org/guide/deploy/deta.html)进行部署，也是可以的，尝试了一下没问题）
 	2. Waline部署完成，然后要在blog中添加的官方配置，单独建一个文件`_includes\head.html` ，内容如下：
-```js
-<!-- waline 评论框 start -->
+```md
+`<!-- waline 评论框 start -->
 
 <div id="waline"></div>
 
@@ -66,7 +66,7 @@ media_subpath:
     let style = document.createElement('style');
     style.textContent = cssContentSelectedDark;
     head.appendChild(style);
-  </script>
+  </script>`
 ```
 
 同时在_config.yml文件中怎加waline相关配置：
