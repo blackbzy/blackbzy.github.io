@@ -1,13 +1,13 @@
 ---
 title: blog_03_bolg添加域名和服务部署
-description: 模板配置
+description: 域名和服务部署
 date: 2024-07-26
 categories:
   - blog
 tags:
   - blog
 auther: blackbzy
-update_date: 2024-08-03T21:56:00
+update_date: 2024-08-03
 pin: true
 toc: true
 comments: 

@@ -7,16 +7,16 @@ categories:
 tags:
   - film
 auther: blackbzy
-update_date: 2024-08-12
+update_date: 2024-08-13
 pin: true
 toc: true
 comments: true
 image:
   path: assets/attachments/volcano-love/volcano-love01.jpg
-  alt: image alternative text
+  alt: 登山途中
 ---
 
-> 这爱情在火山的见证下，已是不朽
+> 在火山的见证下，爱情不朽
 {: .prompt-info }
 
 
@@ -42,4 +42,3 @@ katia和maurice一对火山学家，相比人类社会的复杂欲望，静静�
 
 ---
 故事未完:225
-**Thoughts**:: justdoit.

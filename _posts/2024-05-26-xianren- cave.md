@@ -1,6 +1,6 @@
 ---
 title: 富阳仙人洞
-description: 第一次的探洞体验，大自然的魅力
+description: 第一次探洞，体验大自然的魅力
 date: 2024-05-26
 categories:
   - trekking
