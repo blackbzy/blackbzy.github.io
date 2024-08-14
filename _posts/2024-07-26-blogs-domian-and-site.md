@@ -8,7 +8,7 @@ tags:
   - blog
 auther: blackbzy
 update_date: 2024-08-03
-pin: true
+pin: false
 toc: true
 comments: 
 render_with_liquid: false
