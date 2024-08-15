@@ -1,7 +1,7 @@
 ---
-title: 笔记
-description: 标题下展示
-date: 2024-07-01
+title: 余姚石门龙潭古道双叠瀑
+description: 夏日也能清凉一下的线路
+date: 2024-06-16
 categories:
   - blog
 tags:
