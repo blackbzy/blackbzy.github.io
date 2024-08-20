@@ -21,10 +21,10 @@ image:
 
 当天膝盖不舒服，爬升不是很高600多，气温在30度以下，全长差不多14km。
 ## 出发
-![水库处](assets/attachments/stone-door-dragon-pool-double-falls/stone-door-dragon-pool-double-falls03.jpg){: width="972" height="589" .w-50 .right}
+![水库处](assets/attachments/stone-door-dragon-pool-double-falls/stone-door-dragon-pool-double-falls03.jpg){: width="972" height="589" .w-50 .left}
 出发时刻有些雾气，最开始是一个比较长且连续的爬坡，沿途竹林遍布道路2侧，石阶而上，道上密布着干枯的竹叶，有些台阶缀着青绿色的苔藓，已过10点，水汽渐淡，所以石阶只是较为湿滑，小心点还是较安全的。
 
-![水库处](assets/attachments/stone-door-dragon-pool-double-falls/stone-door-dragon-pool-double-falls04.jpg){: width="972" height="589" .w-50 .right}
+![水库处](assets/attachments/stone-door-dragon-pool-double-falls/stone-door-dragon-pool-double-falls04.jpg){: width="972" height="589" .w-50 .left}
 盘旋的登山的路走了2个小时左右到了山顶，这里是覆盖着竹子枯叶的松软的土地，路两边耸着竹林，同时清风拂面，瞬间驱散了闷热的氛围。就此休息半个多小时开始午餐进食，虽然我带了压缩饼干，但是遇到了肉干，鸭脖，压缩饼干和荔枝，终究抵不住同伴的热情，饱餐一顿。
 
 ## 下山
