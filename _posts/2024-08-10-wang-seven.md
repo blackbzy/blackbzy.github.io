@@ -1,7 +1,7 @@
 ---
 title: 姑苏旺七急速线
 description: 总的来说夏天爬山确实受罪
-date: 2024-08-17
+date: 2024-08-10
 categories:
   - trekking
 tags:
@@ -18,7 +18,7 @@ image:
 ---
 
 
-> summary
+> 夏天还是得悠着点
 {: .prompt-info }
 
 40°天气急速，18km加600爬升，顶着烈日差不多6个小时要走完，没试过。
