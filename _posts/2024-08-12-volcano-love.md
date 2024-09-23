@@ -1,6 +1,6 @@
 ---
 title: 火山恋人
-description: 火山恋人观影感想
+description: 火山恋人观影
 date: 2024-08-12
 categories:
   - film

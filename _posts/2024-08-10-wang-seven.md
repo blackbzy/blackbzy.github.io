@@ -1,6 +1,6 @@
 ---
 title: 姑苏旺七急速线
-description: 总的来说夏天爬山确实受罪
+description: 夏天爬山确实受罪
 date: 2024-08-10
 categories:
   - trekking
