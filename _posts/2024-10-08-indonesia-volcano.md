@@ -50,8 +50,9 @@ image:
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD206.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD202.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
-![img](assets/attachments/indonesia-volcano/d2/indonesiaD203.jpg)
 
+![img](assets/attachments/indonesia-volcano/d2/indonesiaD203.jpg)
+<p align="center">帅气出发</p>
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD204.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD205.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -62,7 +63,9 @@ image:
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD207.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD208.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+
 ![img](assets/attachments/indonesia-volcano/d2/indonesiaD209.jpg)
+<p align="center">围观吃饭的牛</p>
 饱足之后出发，一路上灰尘很多，到了下午3点之后，风渐强，沙石被卷起往脸上扑，后半程基本都是在这个环境下往上爬升，一直到营地已是18：00。
 
 ![img](assets/attachments/indonesia-volcano/d2/indonesiaD2011.jpg){: width="972" height="589" .w-50 .left}
@@ -80,6 +83,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD2014.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d2/indonesiaD2015.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">绝美的日落</p>
 结果晚上山脊的风呼啸，帐篷起飞，我的头朝向迎风面，就一直被帐篷布拍打，用包挡了一下也没啥用，根本睡不着。在深夜迷迷糊糊的时候，听到拉链撕拉的声音，还有帐篷布摩擦的声音，回想到庄主说的晚上会有人摸帐篷，划开布去偷东西，我睡意更是减轻，伸手往声音的方向去摸，啥也没有，就这么迷迷糊糊的过了一夜
 
 ## day3 9-29 妈妈，我要回家╥﹏╥... 睡眠勉强1h
@@ -97,10 +101,12 @@ image:
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD303.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD304.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">绝美的日出</p>
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD305.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD306.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">苦逼的我们</p>
 在这休息十几分钟冰姐赶到，清总和花花随后，风不停刮，冷和渴导致休息了一会也很难恢复，等了一会，决定下山。中间花花想让我上去拍照，我因为太冷风太大没想上去，就在下面给他拍照，结果后面才知道是想忽悠我继续爬，不愧是全地形怪，嘴上说自己很菜，结果全能走。
 
 下山的过程中因为冰姐脚踝的伤和易滑的碎石沙坡道，很难控制自己的重心和落点，于是我就跟着她慢慢走，野姐清总花花因为过于疲惫和渴先快速下降了。上山多痛苦，下山就有多轻松，明明下一步踩下去一滑就是两步，效率飞快，风杨起了灰，让人睁不开眼，还好带了眼罩和口罩，但是其实眼睛和鼻子还是进了很多灰。接着没多久就遇到了o姐，又是一顿咔咔拍照，后面才知道o姐能坚持到那的动力就是，不想到了山上连张自己的照片都没，好强的执念。后面就这样一步一滑的结束了登顶的旅程，虽然比上山轻松，但是体感一样疲惫。在帐篷里换了干燥点的衣服，然后休息了一会。
@@ -118,7 +124,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD308.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD3010.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
-
+<p align="center">火山湖和温泉</p>
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD309.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d3/indonesiaD3012.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -134,6 +140,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d4/indonesiaD401.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d4/indonesiaD402.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+
 ![img](assets/attachments/indonesia-volcano/d4/indonesiaD406.jpg)
 6:00准备下山，冰姐的伤还是严重了，痛苦且漫长的路程中，冰姐并没有抱怨和负面情绪的流露，脚踝传来的阵阵抽搐的疼痛并没有让她停下脚步，为了赶时间，基本没有怎么休息，甚至期间几次因为路面容易滑，扭到了受伤处，导致疼痛加剧，冷汗直冒，结果她还是只是咬了咬牙，喘了几口粗气，就催促着继续前进，甚至还能和我们说笑，真是强大意志力。当然冰姐的屁降也很经典，安全，就是灰有点大。
 
@@ -142,6 +149,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d4/indonesiaD403.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d4/indonesiaD404.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">下山的快乐时光</p>
 11：30到了position2，坐摩托下山。什么是摩托大国？崎岖的山路，非常狭窄的路也能开的像平地一样飞起来，甚至还能超车，非常快乐刺激的体验，尤其是在漫长的下山之后，十分钟就走完了原来一个小时的路程，很爽（向导edy花了半个小时跑了过来，还是那种上上下下的山路）
 
 到底之后告别edy，出发前往港口，绕着龙目转了大半圈，17点坐上去巴黎岛的船，当地的渡轮，上之前没什么期待，结果非常舒适，二楼的甲板上并没有密密麻麻的人，可以随意的转圈看海景，就是刚上船，买地毯的商贩骗我们说座位座不了，要我们买他们的地毯，结果一个女士站了出了说她边上的位置随便坐，后面知道了那个商贩是骗人，渡轮的座位就是随便坐的。于是我们都挪到了2楼，吹着海风，看着海景，心情舒畅，然后又是凌晨到了巴厘岛的酒店，2点睡觉。
@@ -150,17 +158,22 @@ image:
   <img src="assets/attachments/indonesia-volcano/d4/indonesiaD405.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD501.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">来科摩多岛拉</p>
 然后又是6：00起床，赶7点半的飞机去往科摩多，这里禹哥还把我和小智忘了，没喊我们，晚上的泡面看来禹哥是没吃饱呀。这里飞机准点了，1个小时到了科摩多岛，向导是efry。
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD502.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD505.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD503.jpg)
+<p align="center">船宿就是天堂</p>
 登上预订的朴素木色夹着白色的帆船。船上干净简单整洁的环境顿时让人放松了下来，这环境不可能是折磨了。早饭是蔬菜，水果和新鲜的肉，大家确认过眼神，终于是正常的食物和生活了，又可以欢声笑语了，这时的快乐没有一丝的勉强。早上去能看到小鲨鱼的地方去浮潜，下水去找鲨鱼，结果一下水就有一条很快的从我边上穿过。穿着救生衣游泳真惬意，但是由于节奏不对还是呛了口水，非常涩且咸。期间还教o姐和禹哥游泳，虽然我也是个半吊子，不久之前还呛水，但是我犯的错够多，他们遇到的我都遇到过，还真教起来了。因为玩的太入迷，导致在中午吃完饭之后发现大腿和小臂晒伤，火辣辣的疼，果然防晒太重要了。
 
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD507.jpg)
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD508.jpg)
+<p align="center">野姐的绝美摄影</p>
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD504.jpg)
+<p align="center">丰盛的午餐</p>
 中午的餐食也是很赞，小睡了一会之后就是到另一个地方浮潜，顶着火辣辣的痛，穿上了长袖去下水玩耍，这次的地方更美，一片片珊瑚，姹紫嫣红，其中穿梭着颜色鲜艳的小鱼 还有只能在记录片中看到的小丑鱼和海葵，随着海流摇摆的鱼群，还有黑色的小鱼，一扇一扇的摆动着鱼鳍，像是蝴蝶一样穿梭在礁石之间。总之珊瑚的魅力完全无法用语言形容。后面队友说有海龟，结果因为我的近视，看水底全是马赛克，只能在脑海中想象他们描述的场景，算是这次浮潜的唯一的遗憾。
 
 傍晚看着夕阳，在甲板上等着蝙蝠的出行，在日落的那一刻，蝙蝠从海岛的方向一只两只，然后成群结队的从天边飞来，浩浩荡荡，背后映着落日的余晖。躺在坐在船顶的甲班上，深蓝的海水慢慢延生到天际，中景点缀着双轨帆船，零零落落的散落在远处的海面，近近远远的散着白色和黄色的悠悠的灯光，在海面上倒影着波光。再远处的云晕染着深红到深蓝色的天空，倒映在海面。这时满天的蝠群往另一边浩浩荡荡的离去，这时船缓缓启动，天光再由橘红慢慢晕染成紫色，再变成了浅蓝，转成深蓝，然后渐黑，蝠群从头灯略过，温暖的海风吹动，这时躺在甲板，仰望天空的的星光，心情渐渐平静，思绪消散，呼吸放缓。
@@ -170,12 +183,14 @@ image:
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD509.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD5010.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">专业的摄影师们</p>
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD5011.jpg)
 ![img](assets/attachments/indonesia-volcano/d5/indonesiaD5012.jpg)
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD5013.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d5/indonesiaD5014.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">绝美的日落</p>
 在丰盛的晚餐之后，大家开始打牌，而我和向导efry聊天，讲到了工作和人生的观念，人和人之间总会导致纷争和攻击，而自然总是在哪里，它有馈赠也有灾难，印尼其实就是受到了很多的馈赠，而灾难大部分都是人造成的。他说，工作只是生活的一部分，挣钱也不过是一种手段也不是目的，一切都是人生的一部分，而人生短暂，每天重复的生活不过是一种浪费的方式罢了，突破自己的重复的日常也是人生的一种奇迹，敬畏自然，然后拥抱自然，那生活会更美好。
 
 经过1个小时左右的聊天之后我去了顶上的甲板，这时的空气非常潮湿，沙发和甲板上已经都是水滴，我就在甲板上躺了下来，看着天空的银河，和四周的其他的船，点缀着不同颜色的灯光。我仰面躺下，四周黑黢黢的，仅有那些微弱的光在周围闪耀，暖暖的湿润的微咸的海风吹过，海浪卷起了水雾拍打在船身，哗啦哗啦，凝视着星空，就这么一直看着到了22点休息
@@ -185,21 +200,25 @@ image:
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD602.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD603.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">四湾岛日出的颜色渐变</p>
 ![img](assets/attachments/indonesia-volcano/d6/indonesiaD6012.jpg)
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD604.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD605.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD607.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">帅气的大家</p>
 4：30起床，去四湾岛，看了日出，然后去粉红沙滩浮潜，沙子中掺着粉色的珊瑚，细细柔柔的沙滩，踩上去细沙包裹脚面，很舒适，也是同样珊瑚群，非常美。还看到了蝠鲼，贴着水底，游动的飞快，几秒钟就消失了。
 
 ![img](assets/attachments/indonesia-volcano/d6/indonesiaD606.jpg)
+<p align="center">粉粉的沙滩</p>
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD608.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD609.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d6/indonesiaD6011.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
 ![img](assets/attachments/indonesia-volcano/d6/indonesiaD6010.jpg)
+<p align="center">科摩多岛风情</p>
 接着去了科莫多岛，但是差强人意，虽然巨蜥看到了很多，但是都是静态的，没怎么活动，看到的第一群午睡的巨蜥拍了些照片，而且岛上有宰客的现象，虽然说这种现象在中国是习惯了，但还是抱有一些比较善意期盼。
 
 下午回程的时候非常幸运，看到了海豚群，远远的跟个一艘船，在海面攒动。最后感觉船宿意犹未尽，太短了，这才是度假啊。
@@ -212,6 +231,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d7/indonesiaD701.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d7/indonesiaD702.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">local city walk</p>
 10点多出发，中途找了一家当地的特色餐厅就餐，饱餐一顿，总之就是很美味。然后还去了个彩虹小镇，居住着一直生活在这里的人，里面各种的彩色的街头涂鸦，各种图案很精美，很显然画家画的很用心，还看到了绘画的现场，真的很有意思，小镇里面的吃的也都不贵，明显就是正常的当地的价格，接着转了一圈拍了很多照片，满载而归。
 
 ![img](assets/attachments/indonesia-volcano/d7/indonesiaD703.jpg)
@@ -227,6 +247,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d7/indonesiaD708.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d7/indonesiaD709.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">彩虹小镇和它的涂鸦</p>
 晚上到了赛武瀑布，那边的住宿是三角形的特色小镇风格，橘黄色的屋顶高耸，一排排的像是松树一样耸立，很好看，虽然房间内捡漏了点，单纯睡一晚还是别有一番趣味。晚上去的餐厅，当地的服务员一口标准的中文是惊到我了，看来这里的中国游客相当多啊。蔬菜汤和一种什么鱼非常好吃，好像自从从火山出来后没有不好吃的东西。
 
 在途中大家垂涎印尼水果已久，结果一周下来都没咋吃水果，于是我们一经过水果摊就”哇“，一路都这样没见过世面一样，非常欢快，然后向导就找了一家进入水果店买了蛇皮果和牛奶果之类的（向导看见我们指指点点，知道我们讨论自己没看过的东西，于是就剥了一个让我们尝尝，结果就感觉真香，然后当场买当场吃的差不多了）
@@ -250,6 +271,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d8/indonesiaD807.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d8/indonesiaD8014.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">赛武风情</p>
 吃完早饭，休息了一个小时，前往ijen，在途中让地接和司机也找了个酒店就餐，又是结结实实的饱餐一顿（庄主还欠大家一顿海鲜大餐，还有石斑鱼 狗头）。中途也买了很多水果，是在当地的像菜市场一样的地方采购，买了很多蛇皮果，还有当地的小番茄，向导总是给我们推荐苹果和葡萄，但其实我们更想吃当地的特色的水果，17：30到了酒店也是看起来很豪华，配备的泳池也是很大，相比前一天的更大，水质也更好，于是收拾完行李就去游泳了，这里我突然就学会蛙泳了，果然游泳这个技能还是得多练啊
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d8/indonesiaD809.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -259,12 +281,14 @@ image:
   <img src="assets/attachments/indonesia-volcano/d8/indonesiaD8012.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d8/indonesiaD8013.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">美味的当地水果</p>
 ![img](assets/attachments/indonesia-volcano/d8/indonesiaD8011.jpg)
 19：00左右休息
 
 ## day9 10-5 ijen超市大甩卖辣 睡眠7h
 
 ![img](assets/attachments/indonesia-volcano/d9/indonesiaD901.jpg)
+<p align="center">排队的宜珍火山</p>
 2：00出发去ijen，结果因为前天临时关闭，当天去的人爆满，一路都是人在排队，上山的路就像是在超市排队，完没有爬山的氛围，跟着向导一路休息了两次，到第二次时我们问向导到哪了，以为还在position1，结果已经到顶上的position5，相比林贾尼真的简单太多了，而且因为不能下到下面的硫酸湖，导致这个行程除了早起，其他的根本没有难度。（ps向导烧的硫磺给我们看的蓝火），登顶的时候也看到了中国人和阿三死的地点，枯树在悬崖峭壁边上，为了照片而冒生命危险，不是理智的行为，我们在顶上都没想离树靠近拍照，而是远远的找了安全位置拍照。在找角度的时候发现在这种人多的时候还是无人机的视角更好。尤其是镜头拉高，视野之内只有没有边际的山脉和森林，人群只是一个个的黑点，在壮阔的风景之中微不足道，野姐带的无人机拍的效果太赞了。下山的路也很轻松，就是车被堵在了里面，但是移车效率出乎意料的快，10分钟左右就从2层的包围里出去了。
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d9/indonesiaD902.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -278,6 +302,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d9/indonesiaD905.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d9/indonesiaD906.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">大气的无人机视角</p>
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d9/indonesiaD909.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d9/indonesiaD9010.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -295,6 +320,7 @@ image:
 </div>
 ![img](assets/attachments/indonesia-volcano/d10/indonesiaD1001.jpg)
 ![img](assets/attachments/indonesia-volcano/d10/indonesiaD1002.jpg)
+<p align="center">热闹的孤独星球</p>
 2：00开始赶往bromo，路上换乘吉普，结果没开一段就堵车，等了半天只能下车徒步，向导Andy说是因为周末，本地很多人也来，所以人特别多，我们只走了一小段，到了半山腰就开始等日出，还好没什么风，等着也不累，天边已经渐渐有鱼肚白，晕染着淡淡的黄色，等到后面天色渐明就看到了bromo的山头，后面连着两三座火山小小的喷了一下烟，接下来等完全日出，拍完照我们就下山登上吉普，驱车到了火山底下，地面铺着黑色厚厚的沙石，细密的沙子摸起来很舒适，火山底下3量吉普排成一列，坐上车顶拍照，还有野姐的无人机环绕，非常出片。
 <div style="display: flex; margin: 0; padding: 0;">
   <img src="assets/attachments/indonesia-volcano/d10/indonesiaD1003.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
@@ -304,8 +330,9 @@ image:
   <img src="assets/attachments/indonesia-volcano/d10/indonesiaD1005.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d10/indonesiaD1006.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
-
+<p align="center">壮观的bromo日出</p>
 ![img](assets/attachments/indonesia-volcano/d10/indonesiaD1008.jpg)
+<p align="center">帅气的大家</p>
 拍完照片之后就前往bromo底下，开始徒步爬山，这里的沙子更厚，还能骑马。冰姐和o姐还有禹姐骑马体验，我们就在后面走，我在踩上沙子之后感觉一陷一陷的脚感非常舒适，于是就开始蹦蹦跳跳的前进，慢慢就换成小跑，超过了马匹，不过沙子路面摩擦很小，跑起来吃力，没一会就累了。到接近台阶的路段变窄，马蹄溅起来的灰被风一刮很呛人，快速通过之后再过一个台阶就到了火山口。“轰隆隆”一下子就有低沉的声音伴着风声传来，火山口往下看就是硫磺色的口底，从下往上就是爆炸产生的不规则的一个小口子接近垂直，斜面往上角度80度左右到我所在的位置，约过栏杆滑下去肯定是得熟了，下面轰隆隆的声音说是岩浆和水沸腾的声音。外表面是一条条沟壑，凝固的岩浆沿着山体往下，很壮观。
 ![img](assets/attachments/indonesia-volcano/d10/indonesiaD1009.jpg)
 <div style="display: flex; margin: 0; padding: 0;">
@@ -315,6 +342,7 @@ image:
   <img src="assets/attachments/indonesia-volcano/d10/indonesiaD10012.jpg" alt="Image 1" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
   <img src="assets/attachments/indonesia-volcano/d10/indonesiaD10013.jpg" alt="Image 2" style="flex-basis: 50%;  object-fit: cover;margin: 0; padding: 0; display: block;">
 </div>
+<p align="center">bromo的沙地</p>
 回程就是回酒店简单洗澡就前往机场，中途看了一个工艺品市场和当地的超市，把现金消费完。旅途结束，赶了3班飞机，先到雅加达再到深圳最后回上海。
 
 在雅加达机场给大家画了几张速写，完美结束( ¨̮ )
