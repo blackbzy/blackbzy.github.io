@@ -11,33 +11,35 @@ pin: true
 media_subpath: '/posts/20180809'
 ---
 
-## Creating a site repository
+## Creating a Site Repository
 
-There are two methods to create a site repository for **Chirpy**:
+When creating your site repository, you have two options depending on your needs:
 
-- [**Using the starter**](#option-1-using-the-starter) — This approach simplifies upgrades and isolates unnecessary project files, enabling you to concentrate on your content. It's ideal for those who want a hassle-free setup focused primarily on writing.
-- [**Forking the theme**](#option-2-forking-the-theme) — This method allows for customization and development but presents challenges during upgrades. It is not recommended to use this approach unless you are familiar with Jekyll and plan to modify this project.
+### Option 1. Using the Starter (Recommended)
 
-### Option 1: using the starter
+This approach simplifies upgrades, isolates unnecessary files, and is perfect for users who want to focus on writing with minimal configuration.
 
 1. Sign in to GitHub and navigate to the [**starter**][starter].
 2. Click the <kbd>Use this template</kbd> button and then select <kbd>Create a new repository</kbd>.
+3. Name the new repository `<username>.github.io`, replacing `username` with your lowercase GitHub username.
 
-### Option 2: forking the theme
+### Option 2. Forking the Theme
 
-Sign in to GitHub and [fork the theme](https://github.com/cotes2020/jekyll-theme-chirpy/fork).
+This approach is convenient for modifying features or UI design, but presents challenges during upgrades. So don't try this unless you are familiar with Jekyll and plan to heavily modify this theme.
 
-## Name your new repository
+1. Sign in to GitHub.
+2. [Fork the theme repository](https://github.com/cotes2020/jekyll-theme-chirpy/fork).
+3. Name the new repository `<username>.github.io`, replacing `username` with your lowercase GitHub username.
 
-Rename your repository to `<username>.github.io`. The `username` represents your lowercase GitHub username.
+## Setting up the Environment
 
-## Setting up the environment
+Once your repository is created, it's time to set up your development environment. There are two primary methods:
 
-The easiest way to set up the runtime environment, especially on Windows, is by using [Dev Containers](#setting-up-in-dev-containers). This method installs all packages within a Docker container, isolating them from the host machine and ensuring no interference with existing settings.
+### Using Dev Containers (Recommended for Windows)
 
-For Unix-like systems, besides using Dev Containers, you can also [natively set up](#setting-up-natively) the runtime environment to achieve optimal performance.
+Dev Containers offer an isolated environment using Docker, which prevents conflicts with your system and ensures all dependencies are managed within the container.
 
-### Setting up in Dev Containers
+**Steps**:
 
 1. Install Docker:
    - On Windows/macOS, install [Docker Desktop][docker-desktop].
@@ -45,27 +47,34 @@ For Unix-like systems, besides using Dev Containers, you can also [natively set 
 2. Install [VS Code][vscode] and the [Dev Containers extension][dev-containers].
 3. Clone your repository:
    - For Docker Desktop: Start VS Code and [clone your repo in a container volume][dc-clone-in-vol].
-   - For Docker Engine: Clone your repo to the local disk, then launch VS Code and [open your repo in the container][dc-open-in-container].
-4. Wait a few minutes for Dev Containers to finish installing.
+   - For Docker Engine: Clone your repo locally, then [open it in a container][dc-open-in-container] via VS Code.
+4. Wait for the Dev Containers setup to complete.
 
-### Setting up natively
+### Setting up Natively (Recommended for Unix-like OS)
 
-1. Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. Ensure that [Git](https://git-scm.com/) is also installed.
-2. Clone your repository to a local disk.
-3. If your site is created by forking the theme, install [Node.js][nodejs] and run `bash tools/init.sh` in the root directory. This will initialize the repository files and create a commit to save the changes.
-4. Install the dependencies by running `bundle`.
+For Unix-like systems, you can set up the environment natively for optimal performance, though you can also use Dev Containers as an alternative.
 
-### Start the local server
+**Steps**:
+
+1. Follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) to install Jekyll and ensure [Git](https://git-scm.com/) is installed.
+2. Clone your repository to your local machine.
+3. If you forked the theme, install [Node.js][nodejs] and run `bash tools/init.sh` in the root directory to initialize the repository.
+4. Run command `bundle` in the root of your repository to install the dependencies.
+
+## Usage
+
+### Start the Jekyll Server
 
 To run the site locally, use the following command:
 
-```console
+```terminal
 $ bundle exec jekyll s
 ```
 
-After a few seconds, the local server will be available at <http://127.0.0.1:4000>.
+> If you are using Dev Containers, you must run that command in the **VS Code** Terminal.
+{: .prompt-info }
 
-## Usage
+After a few seconds, the local server will be available at <http://127.0.0.1:4000>.
 
 ### Configuration
 
@@ -98,7 +107,7 @@ Before deploying, check the `_config.yml`{: .filepath} file and ensure the `url`
 
 Now you can choose _ONE_ of the following methods to deploy your Jekyll site.
 
-### Deploy using GitHub Actions
+### Deploy Using Github Actions
 
 Prepare the following:
 
