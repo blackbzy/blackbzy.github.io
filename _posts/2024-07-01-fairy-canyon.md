@@ -3,12 +3,14 @@ title: 上虞神仙峡谷
 description: 一次不溯溪的溯溪体验，外加户外展览
 date: 2024-07-01
 categories:
-  - blog
+  - trekking
+  - china
 tags:
-  - blog
+  - trekking
+  - china
 auther: blackbzy
 update_date: 2024-08-16
-pin: true
+pin: false
 toc: true
 comments: true
 image:

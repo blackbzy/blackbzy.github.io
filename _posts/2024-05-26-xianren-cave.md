@@ -4,12 +4,13 @@ description: 第一次探洞，体验大自然的魅力
 date: 2024-05-26
 categories:
   - trekking
+  - china
 tags:
   - trekking
   - china
 auther: blackbzy
 update_date: 2024-08-12
-pin: true
+pin: false
 toc: true
 comments: true
 image:

@@ -8,7 +8,7 @@ tags:
   - film
 auther: blackbzy
 update_date: 2024-08-13
-pin: true
+pin: false
 toc: true
 comments: true
 image:

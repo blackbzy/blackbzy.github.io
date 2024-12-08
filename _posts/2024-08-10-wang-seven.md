@@ -4,12 +4,13 @@ description: 夏天爬山确实受罪
 date: 2024-08-10
 categories:
   - trekking
+  - china
 tags:
   - trekking
   - china
 auther: blackbzy
 update_date: 2024-08-31
-pin: true
+pin: false
 toc: true
 comments: true
 image:

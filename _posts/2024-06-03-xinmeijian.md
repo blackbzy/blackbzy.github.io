@@ -4,12 +4,13 @@ description: 徒步杏梅尖
 date: 2024-06-03
 categories:
   - trekking
+  - china
 tags:
   - trekking
   - china
 auther: blackbzy
 update_date: 2024-08-15
-pin: true
+pin: false
 toc: true
 comments: true
 image:

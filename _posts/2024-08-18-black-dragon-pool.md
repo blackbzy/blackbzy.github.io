@@ -9,7 +9,7 @@ tags:
   - china
 auther: blackbzy
 update_date: false
-pin: true
+pin: false
 toc: true
 comments: true
 image:
