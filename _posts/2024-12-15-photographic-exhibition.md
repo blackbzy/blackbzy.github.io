@@ -68,13 +68,13 @@ image:
 
 有些照片是拍的壁画，从实体再到照片，对实际的壁画产生很长的距离感。
 ![img](assets/attachments/photographic-exhibition/photographic-exhibition06.jpg)
-<p align="center">2024 观展的观众</p>
+<p align="center">大湿 2024 《窗外》</p>
 
 突然想到一个问题：摄影是从记录，变成了表达，还是先设计主题，再到寻找画面？
 
 可能仅仅就是在那个合适的瞬间按下快门，而已。
 ![img](assets/attachments/photographic-exhibition/photographic-exhibition08.jpg)
-<p align="center">野 2024 《无题》</p>
+<p align="center">野 2024 《江对月影》</p>
 
 ---
 故事未完:350
