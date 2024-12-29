@@ -3,9 +3,9 @@ title: 天马-首半马
 description: 对半马准备和过程的复盘
 date: 2024-11-10
 categories:
-  - marathon
+  - run
 tags:
-  - marathon
+  - run
   - first_experience
 auther: blackbzy
 update_date: 2024-12-01
