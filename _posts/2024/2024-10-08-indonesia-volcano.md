@@ -10,7 +10,7 @@ tags:
   - indonesia
 auther: blackbzy
 update_date: 2024-10-20
-pin: false
+pin: true
 toc: true
 comments: true
 image:
