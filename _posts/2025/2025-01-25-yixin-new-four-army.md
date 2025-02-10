@@ -1,6 +1,6 @@
 ---
 title: 宜兴新四军
-description: 燃尽了
+description: 对长距离要有敬畏之心(；′⌒`)
 date: 2025-01-25
 categories:
   - 徒步
@@ -18,7 +18,7 @@ image:
   alt: 起步即飞奔
 ---
 
-> 对长距离要有敬畏之心，阿门
+> 燃尽了
 {: .prompt-info }
 
 今天是燃尽的一天

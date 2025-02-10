@@ -1,6 +1,6 @@
 ---
 title: 宁波_太白之巅虎头岭
-description: 奔着四星去，爬完成五星线了
+description: 对防火道要有敬畏之心(；′⌒`)
 date: 2025-01-11
 categories:
   - 徒步
