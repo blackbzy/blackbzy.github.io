@@ -3,11 +3,11 @@ title: 无锡高阳山_重游
 description: 春天？冬天？
 date: 2025-01-18
 categories:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 tags:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 auther: blackbzy
 update_date: false
 pin: false

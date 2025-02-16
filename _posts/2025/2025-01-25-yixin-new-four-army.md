@@ -3,11 +3,11 @@ title: 宜兴新四军
 description: 对长距离要有敬畏之心(；′⌒`)
 date: 2025-01-25
 categories:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 tags:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 auther: blackbzy
 update_date: false
 pin: false

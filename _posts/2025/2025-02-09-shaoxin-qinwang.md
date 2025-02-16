@@ -3,11 +3,11 @@ title: 秦望竹海_开年首野
 description: 对竹海要有敬畏之心(；′⌒`)
 date: 2025-02-09
 categories:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 tags:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 auther: blackbzy
 update_date: 2025-02-09
 pin: false

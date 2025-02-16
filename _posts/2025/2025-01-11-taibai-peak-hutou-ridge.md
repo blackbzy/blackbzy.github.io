@@ -3,11 +3,11 @@ title: 宁波_太白之巅虎头岭
 description: 对防火道要有敬畏之心(；′⌒`)
 date: 2025-01-11
 categories:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 tags:
-  - 徒步
-  - 中国
+  - trekking
+  - china
 auther: blackbzy
 update_date: 2025-01-12
 pin: false
