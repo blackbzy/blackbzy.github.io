@@ -7,7 +7,7 @@ categories:
 tags:
   - blog
 auther: blackbzy
-update_date: 2024-08-04
+update_date: 2025-02-28
 pin: false
 toc: true
 comments: 
@@ -26,7 +26,7 @@ media_subpath:
 ##  2. 尝试基于Waline添加comment 模:
 这次是有[官方文档](https://waline.js.org/guide/get-started/)：jykell特殊调整内容如下
 	1. 数据库保持leanCloud，服务端基于vercel切换（基于[deta](https://waline.js.org/guide/deploy/deta.html)进行部署，也是可以的，尝试了一下没问题）
-	2. Waline部署完成，然后要在blog中添加的官方配置，单独建一个文件`_includes\head.html` ，内容如下：
+	2. Waline部署完成，然后要在blog中添加的官方配置，单独建一个文件`_includes/head.html` ，内容如下：
 ```md
 `<!-- waline 评论框 start -->
 
@@ -82,6 +82,21 @@ comments:
 
 最后提交代码部署完成。
 
+## 添加评论的邮箱通知
+[官方参考](https://waline.js.org/guide/features/notification.html)
+在vercel对应的容器中添加以下字段的环境变量：
+```
+SMTP_SERVICE: SMTP 邮件发送服务提供商。
+SMTP_USER: SMTP 邮件发送服务的用户名，一般为登录邮箱。
+SMTP_PASS: SMTP 邮件发送服务的密码，一般为邮箱登录密码，部分邮箱(例如 163)是单独的 SMTP 密码。
+SMTP_SECURE: 是否使用 SSL 连接 SMTP。
+SITE_NAME: 网站名称，用于在消息中显示。
+SITE_URL: 网站地址，用于在消息中显示。
+AUTHOR_EMAIL: 博主邮箱，用来接收新评论通知。如果是博主发布的评论则不进行提醒通知。
+```
+![](assets/attachments/blog/blog01.png)
+
+最后重启日期即可
 
 ---
 故事未完:216
