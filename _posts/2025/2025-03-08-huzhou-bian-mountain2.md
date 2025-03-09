@@ -14,7 +14,7 @@ pin: false
 toc: true
 comments: true
 image:
-  path: assets/attachments/2025/huzhou-bian-mountain/huzhou-bian-mountain09.jpg
+  path: assets/attachments/2025/huzhou-bian-mountain/huzhou-bian-mountain10.jpg
   alt: 远远的青山上白色风车像蒲公英靠着天静立
 ---
 
