@@ -3,9 +3,11 @@ title: heavenstamp
 description: 圣诞live house
 date: 2024-12-25
 categories:
+  - live-house
   - heavenstamp
 tags:
-  - heavenstamp
+  - first_experience
+  - live-house
 auther: blackbzy
 update_date: 2024-12-25
 pin: false

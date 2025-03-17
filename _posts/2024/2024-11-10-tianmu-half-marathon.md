@@ -1,12 +1,12 @@
 ---
-title: 天马-首半马
+title: 首半马-天马
 description: 对半马准备和过程的复盘
 date: 2024-11-10
 categories:
   - run
 tags:
-  - run
   - first_experience
+  - run
 auther: blackbzy
 update_date: 2024-12-01
 pin: false

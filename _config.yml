@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username:  # change to your github username
+  username: blackbzy # change to your github username
 
 twitter:
   username: blackbzy # change to your twitter username
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-H3E3ZT0J8G
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
