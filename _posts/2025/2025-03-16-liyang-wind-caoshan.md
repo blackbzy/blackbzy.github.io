@@ -27,7 +27,7 @@ image:
 到了起点曹山白露公园，现场差不多两三百人。周围都是装备精良身形矫健，于是我预期全程会一个人走。会场气氛很好，简单拉伸一下，领导发完言就发枪。
 
 出发的时候微风，阴沉沉的云，地面湿泞，气温在4°左右，比预期好很多。跟着大部队跑，为了赶下午7点的高铁，最晚得10个小时之内完赛，所以前期赶一赶给后面留下容错率。这就是我最开始的策略。
-![img](assets/attachments/2025/liyang-wind-caoshan/liyang-wind-caoshan04.jpg)
+![img](assets/attachments/2025/liyang-wind-caoshan/liyang-wind-caoshan04.jpeg)
 
 一坡上的时候被一个大爷超车，一问年龄，“80岁了”。
 边上的人：“啊！！！”。
