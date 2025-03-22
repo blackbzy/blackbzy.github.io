@@ -20,6 +20,7 @@ image:
 
 > 在天黑前艰难走完，燃尽了
 {: .prompt-info }
+{% include embed/{youtube}.html id='{xvp0avSDByE}' %}
 
 ## 行程
 ![img](assets/attachments/2025/suzhou-fire-dragon/suzhou-fire-dragon02.jpg)

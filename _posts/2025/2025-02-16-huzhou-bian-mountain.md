@@ -20,6 +20,8 @@ image:
 
 > 被拉爆的一天
 {: .prompt-info }
+
+{% include embed/{youtube}.html id='{TPGnaTq3iBU}' %}
 ## 行程
 出发时知道今天可能会下雨，做好了玩泥巴的准备，结果发现劫数不在此处.
 

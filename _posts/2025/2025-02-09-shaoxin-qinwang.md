@@ -20,6 +20,7 @@ image:
 
 > 好累呀，面不错
 {: .prompt-info }
+{% include embed/{youtube}.html id='{sqEvkarhTi8}' %}
 
 当天气温很低，不过出发的时候太阳高照，撒下暖意。
 ![img](assets/attachments/2025/shaoxin-qinwang/shaoxin-qinwang02.jpg)
