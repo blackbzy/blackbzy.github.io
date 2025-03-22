@@ -60,6 +60,7 @@ webmaster_verifications:
 analytics:
   google:
     id: G-H3E3ZT0J8G
+    enabled: true 
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
