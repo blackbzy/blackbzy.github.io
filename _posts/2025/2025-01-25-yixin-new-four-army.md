@@ -21,8 +21,8 @@ image:
 > 燃尽了
 {: .prompt-info }
 
+{% include embed/youtube.html id='hZ-IEIkEIxw' %}
 今天是燃尽的一天
-{% include embed/{youtube}.html id='{hZ-IEIkEIxw}' %}
 从大巴出发时就开始堵，碰上了过年回家潮，高速大巴又堵车，所以到达起点比正常的行程的晚半小时，但是关门的时间不变（毕竟天黑不会延迟），加上难度增加，多了100多米的爬升，大家都压力山大。
 
 没有拉伸，拍完合照，往前冲，怕被关门。

@@ -20,8 +20,8 @@ image:
 
 > 在天黑前艰难走完，燃尽了
 {: .prompt-info }
-{% include embed/{youtube}.html id='{xvp0avSDByE}' %}
 
+{% include embed/youtube.html id='xvp0avSDByE' %}
 ## 行程
 ![img](assets/attachments/2025/suzhou-fire-dragon/suzhou-fire-dragon02.jpg)
 这次是清总，y总和K总组的越野小分队，清总还承担了司机，8点半到起点，到17点45到结束点

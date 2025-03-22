@@ -21,7 +21,7 @@ image:
 > 春日出游即春游
 {: .prompt-info }
 
-{% include embed/{youtube}.html id='{mczPGJg8Mc4}' %}
+{% include embed/youtube.html id='mczPGJg8Mc4' %}
 初春的天气，天高气爽，适合登高望远，不过现在还是有点霾，远处的城市线是灰蒙蒙的
 
 这次是和y总、冰姐和狼姐的一次拉练，由于前天晚上的节奏跑强度太高，恢复没有完全，所以这次还是尽量不会太拼，主要保证安全为主
